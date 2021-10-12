@@ -1,0 +1,2 @@
+# beam_search
+beam_search 算法python 版本，便于在pytorch中进行更改，优点是可以使用batch_size=1，对于复杂架构的input格式不用repeat数据
